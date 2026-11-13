@@ -1,0 +1,6 @@
+{
+  "name": "CollegeAI — VETIAS Intelligent Enquiry & Admission Assistant",
+  "description": "AI-powered college enquiry, Gemini RAG chatbot, academic program explorer, online admission portal, and verified student dashboard for VET Institute of Arts & Science.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

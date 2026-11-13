@@ -1,0 +1,10 @@
+# Academic Programs (2026–2027)
+
+1. **VET-AIDS-01 | B.Sc Computer Science (Artificial Intelligence & Data Science)** (UG · 3 Years · 60 Seats · ₹38,000 / Semester)
+2. **VET-BCA-02 | Bachelor of Computer Applications (BCA)** (UG · 3 Years · 120 Seats · ₹32,000 / Semester)
+3. **VET-CS-03 | B.Sc Computer Science** (UG · 3 Years · 60 Seats · ₹30,000 / Semester)
+4. **VET-BCOM-04 | B.Com (Professional Accounting)** (UG · 3 Years · 60 Seats · ₹34,000 / Semester)
+5. **VET-BCOM-05 | B.Com (Computer Applications)** (UG · 3 Years · 60 Seats · ₹28,000 / Semester)
+6. **VET-BBA-06 | BBA (International Business)** (UG · 3 Years · 60 Seats · ₹32,000 / Semester)
+7. **VET-MSC-07 | M.Sc Data Analytics** (PG · 2 Years · 30 Seats · ₹42,000 / Semester)
+8. **VET-DIP-08 | Diploma in Applied AI & Cloud Computing** (Diploma · 1 Year · 40 Seats · ₹22,000 / Semester)
